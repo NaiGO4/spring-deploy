@@ -17,6 +17,11 @@ public class HelloController {
         return "Hola Mundo con SpringBoot";
     }
 
+    @GetMapping("/products")
+    public String Productos(){
+        return "Lista vacia";
+    }
+
     @GetMapping("/booststrap")
     public String booststrap(){
         return "<!doctype html>\n" +
