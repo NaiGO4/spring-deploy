@@ -1,5 +1,16 @@
-# Despliegue de la app de Spring Boot en Render
+# Despliegue de Aplicaciones Spring Boot en Render
 
+
+## Despliegue de Aplicaciones Spring Boot en Render
+* Guía detallada para desplegar aplicaciones desarrolladas con Spring Boot en Render, utilizando Git, 
+GitHub e IntelliJ IDEA. Aprende paso a paso cómo configurar y lanzar tu aplicación en la nube de Render de 
+manera eficiente y segura.
+
+## Tecnologías Utilizadas
+* Java, Spring Boot: Desarrollo de aplicaciones web backend.
+* Git, GitHub: Control de versiones y gestión de repositorios.
+* IntelliJ IDEA: IDE para desarrollo de aplicaciones Java.
+* Render: Plataforma de despliegue en la nube con soporte para contenedores Docker.
 ## Pasos para realizar el Despliegue
 
 1. [Crear una cuenta en Render](https://render.com/)
@@ -106,7 +117,17 @@ listo para utilizarse.
 * Cuando esté listo, en la parte superior de Render aparecerá el link para que lo utilices y pruebes.
 * Prueba tus entradas que realizaste y asegúrate de que todo esté bien para que no tengas problemas al usar tu proyecto. 
 
+
+
+## Autor
+[Giancarlos Yanayaco](https://github.com/NaiGO4)
+
+
+## Licencia
+
+Este proyecto no tiene una licencia específica. Si tienes preguntas sobre el uso o distribución de este código, 
+por favor contacta al autor.
+
 ## Nota Final
 Este es mi primer README.md, espero que les ayude a implementar sus proyectos con Render. Es algo complicado si no lo
 conoces, pero con el tiempo sabrás por dónde ir y el despliegue se vuelve sencillo.
-
